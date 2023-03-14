@@ -1,6 +1,6 @@
 /*
  * 程序名：tcpputfiles.cpp，采用tcp协议，实现文件上传的客户端。
- * 作者：吴从周。
+ * 作者：董成涛。
 */
 #include "_public.h"
 
